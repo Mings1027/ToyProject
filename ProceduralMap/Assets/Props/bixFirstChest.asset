@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d44ba9c47ea904bc3837d28b0d49c96e, type: 3}
+  m_Name: bixFirstChest
+  m_EditorClassIdentifier: 
+  propSprite: {fileID: -1034604436700536505, guid: a0d3fbbc155eb404a87f827b40a48dfe, type: 3}
+  propSize: {x: 1, y: 1}
+  corner: 1
+  nearWallUp: 0
+  nearWallDown: 1
+  nearWallRight: 0
+  nearWallLeft: 1
+  inner: 0
+  placementQuantityMin: 0
+  placementQuantityMax: 1
+  placeAsGroup: 0
+  groupMinCount: 0
+  groupMaxCount: 1
